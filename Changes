@@ -1,0 +1,6 @@
+Revision history for Perl extension MARC::Simple.
+
+0.01  Sat Jul 24 22:38:13 2004
+	- original version; created by h2xs 1.23 with options
+		-n MARC::Simple -v 0.01 -X
+

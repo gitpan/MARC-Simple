@@ -1,0 +1,8 @@
+Build.PL
+Changes
+Makefile.PL
+MANIFEST
+README
+t/01-basic.t
+t/02-basic.t
+lib/MARC/Simple.pm
